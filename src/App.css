@@ -1,38 +1,226 @@
-.App {
+.navbar-toggler{
+  width: 47px;
+  height: 34px;
+  background-color: #fcface;
+  border:none;
+}
+.navbar-toggler .navbar-toggler-icon{
+  width: 100%;
+  float: left;
+  height: 2px;
+  background-color: #320c01;
+  margin-bottom: 5px;
+}
+body{
+  background-image: linear-gradient(to right, rgba(0,0,0,0.3),rgba(0,0,0,0.3)),  url(./images/wall.jpeg);
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size:100% 100%;
+  width: 100%;
+  font-family: 'Nunito', sans-serif;
+}
+.nav-link{
+  color: #fcface;
+  text-transform: uppercase;
+  font-size: 13px;
+}
+.logo{
+   width: 100%;
+   margin-top: 70px;
+}
+.border1{
+  border-bottom: 2px solid #fcface;
+  margin-top: 50px;
+}
+.port{
+  color: #fcface;
+  font-weight: bold;
+  text-transform: uppercase;
   text-align: center;
+  margin-top: 70px;
 }
-
-.App-logo {
-  height: 40vmin;
-  pointer-events: none;
+.wall2{
+  background-image:linear-gradient(to right, rgba(201, 34, 34, 0.3),rgba(0,0,0,0.3)),  url(./images/wall2.jpeg);
+  width: 100%;
+  margin-top: 110px;
 }
-
-@media (prefers-reduced-motion: no-preference) {
-  .App-logo {
-    animation: App-logo-spin infinite 20s linear;
-  }
+.wall2 p{
+  color: #fcface;
+  padding-top: 40px;
+  font-weight: bold;
+  text-align: center;
+  padding-bottom: 50px;
+  font-size: 1.0rem;
 }
-
-.App-header {
-  background-color: #282c34;
-  min-height: 100vh;
-  display: flex;
-  flex-direction: column;
-  align-items: center;
-  justify-content: center;
-  font-size: calc(10px + 2vmin);
+.wall3 h1{
+  color: #fcface;
+  text-align: center;
+  margin-top: 100px;
+}
+.wall3 a{
+  text-align: center;
+  font-size:1.7rem;
+}
+.wall3 a:hover{
+  color: #fcface;
+  cursor: pointer;
+}
+.wall3 img{
+  margin-left: auto;
+  margin-right: auto;
+  display: block;
+  max-width: 100%;
+}
+.logo2{
+  margin-top: 90px;
+}
+.logo2_1{
+  border-right: 2px solid #fcface;
+}
+.wall4{
+  background-image: url(./images/wall3.jpeg);
+  background-repeat: no-repeat;
+  background-size:cover;
+  max-width: 100%;
+  /* height: auto; */
+  padding: 150px 0px;
+}
+.wall4 button{
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  background-color: #320c01;
+  padding: 10px 12px;
+  border: none;
+  margin-top: 20px;
   color: white;
 }
-
-.App-link {
-  color: #61dafb;
+.wall4 button:hover{
+  background-color: #6b372a;
+  transition: 0.5s ease-in;
 }
-
-@keyframes App-logo-spin {
-  from {
-    transform: rotate(0deg);
-  }
-  to {
-    transform: rotate(360deg);
-  }
+.wall4 h2{
+ text-align: center;
+ font-weight: 500;
+ color: black;
+ letter-spacing: 2px;
+}
+.sp{
+  background-image: url(./images/logo3.png);
+  background-size: 100% 100%;
+  width: 100%;
+  height:auto;
+}
+.wall5 img{
+   max-width: 100%;
+   height: 28rem;
+}
+.wall6 img{
+  max-width: 100%;
+  height: 28rem;
+}
+.wall7{
+  background-image: url(./images/wall10.jpeg);
+  background-repeat: no-repeat;
+  background-size:100% 100%;
+  max-width: 100%;
+  padding: 150px 0px;
+}
+.wall7 h2{
+  text-align: center;
+  font-weight: 500;
+  color: black;
+  letter-spacing: 2px;
+}
+.wall7 button{
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  background-color: #320c01;
+  padding: 10px 12px;
+  border: none;
+  margin-top: 20px;
+  color: white;
+}
+.wall7 button:hover{
+  background-color: #6b372a;
+  transition: 0.5s ease-in;
+}
+.sp2{
+  background-image: url(./images/logo4.png);
+  background-size: 100% 100%;
+  width: 100%;
+  height:auto;
+}
+.sp3{
+  background-image: url(./images/logo5.png);
+  background-size: 100% 100%;
+  width: 100%;
+  height:auto;
+}
+.wall8{
+  background-image: url(./images/wall14.jpeg);
+  background-repeat: no-repeat;
+  background-size:100% 100%;
+  max-width: 100%;
+  padding: 150px 0px;
+}
+.wall8 button{
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  background-color: #320c01;
+  padding: 10px 12px;
+  border: none;
+  margin-top: 20px;
+  color: white;
+}
+.wall8 button:hover{
+  background-color: #6b372a;
+  transition: 0.5s ease-in;
+}
+.wall8 h2{
+  text-align: center;
+  font-weight: 500;
+  color: black;
+  letter-spacing: 2px;
+}
+.wall18{
+  background-image: url(./images/wall18.jpeg);
+  max-width: 100%;
+  background-repeat: no-repeat;
+  background-size:cover;
+  background-size:100% 100%;
+  padding:6rem 6rem 3rem 6rem;
+  color: black;
+}
+.wall18 h2{
+  font-family: 'Libre Baskerville', serif;
+}
+.wall18 input, textarea{
+  width: 100%;
+  padding: 5px 5px 5px 10px;
+}
+.wall18 button{
+  background-color: #320c01;
+  color: white;
+  margin-top: 10px;
+  padding: 6px 27px;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  border: none;
+}
+.wall18 button:hover{
+  background-color: #6b372a;
+}
+.wall20{
+  background-color: #320c01;
+  padding: 2rem;
+}
+.wall20 p, h4{
+  color: white;
+}
+.wall20 p{
+  font-size: 14px;
 }
