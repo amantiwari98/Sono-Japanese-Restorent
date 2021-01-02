@@ -1,0 +1,34 @@
+{
+  "files": {
+    "main.css": "/Sono-Japanese-Restorent/static/css/main.75ff7c1d.chunk.css",
+    "main.js": "/Sono-Japanese-Restorent/static/js/main.8bfb13d7.chunk.js",
+    "main.js.map": "/Sono-Japanese-Restorent/static/js/main.8bfb13d7.chunk.js.map",
+    "runtime-main.js": "/Sono-Japanese-Restorent/static/js/runtime-main.2f1be533.js",
+    "runtime-main.js.map": "/Sono-Japanese-Restorent/static/js/runtime-main.2f1be533.js.map",
+    "static/js/2.67fdc0b3.chunk.js": "/Sono-Japanese-Restorent/static/js/2.67fdc0b3.chunk.js",
+    "static/js/2.67fdc0b3.chunk.js.map": "/Sono-Japanese-Restorent/static/js/2.67fdc0b3.chunk.js.map",
+    "index.html": "/Sono-Japanese-Restorent/index.html",
+    "static/css/main.75ff7c1d.chunk.css.map": "/Sono-Japanese-Restorent/static/css/main.75ff7c1d.chunk.css.map",
+    "static/js/2.67fdc0b3.chunk.js.LICENSE.txt": "/Sono-Japanese-Restorent/static/js/2.67fdc0b3.chunk.js.LICENSE.txt",
+    "static/media/logo.455a03cf.png": "/Sono-Japanese-Restorent/static/media/logo.455a03cf.png",
+    "static/media/App.css": "/Sono-Japanese-Restorent/static/media/wall3.144403e9.jpeg",
+    "static/media/wall11.75f4289c.jpeg": "/Sono-Japanese-Restorent/static/media/wall11.75f4289c.jpeg",
+    "static/media/wall12.0fb61dc0.jpeg": "/Sono-Japanese-Restorent/static/media/wall12.0fb61dc0.jpeg",
+    "static/media/wall13.39e7c14c.jpeg": "/Sono-Japanese-Restorent/static/media/wall13.39e7c14c.jpeg",
+    "static/media/wall15.b05a10d6.jpeg": "/Sono-Japanese-Restorent/static/media/wall15.b05a10d6.jpeg",
+    "static/media/wall16.4b141d5a.jpeg": "/Sono-Japanese-Restorent/static/media/wall16.4b141d5a.jpeg",
+    "static/media/wall17.80eaf1a7.jpeg": "/Sono-Japanese-Restorent/static/media/wall17.80eaf1a7.jpeg",
+    "static/media/wall4.7e080acd.jpeg": "/Sono-Japanese-Restorent/static/media/wall4.7e080acd.jpeg",
+    "static/media/wall5.ac61b9a2.jpeg": "/Sono-Japanese-Restorent/static/media/wall5.ac61b9a2.jpeg",
+    "static/media/wall6.e8fcfd6a.jpeg": "/Sono-Japanese-Restorent/static/media/wall6.e8fcfd6a.jpeg",
+    "static/media/wall7.75c4375b.jpeg": "/Sono-Japanese-Restorent/static/media/wall7.75c4375b.jpeg",
+    "static/media/wall8.7dad2eb0.jpeg": "/Sono-Japanese-Restorent/static/media/wall8.7dad2eb0.jpeg",
+    "static/media/wall9.f701f05d.jpeg": "/Sono-Japanese-Restorent/static/media/wall9.f701f05d.jpeg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.2f1be533.js",
+    "static/js/2.67fdc0b3.chunk.js",
+    "static/css/main.75ff7c1d.chunk.css",
+    "static/js/main.8bfb13d7.chunk.js"
+  ]
+}
